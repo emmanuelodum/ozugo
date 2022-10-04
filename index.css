@@ -348,7 +348,7 @@ section.about .container .read-more:hover {
 
 /* =======================CONTACT====================== */
 section.contact {
-    background: url(./image/contact\ background.webp) no-repeat center center/cover;
+    /* background: url(./image/contact\ background.webp) no-repeat center center/cover; */
     padding: 0;
     max-width: 100vw;
 }
@@ -372,8 +372,8 @@ section.contact .container h1 {
 section.contact .container p {
     text-align: center;
     color: var(--color-white);
-    opacity: 0.8;
     margin-top: 0.5rem;
+    font-size: large;
 }
 
 section.contact form {
