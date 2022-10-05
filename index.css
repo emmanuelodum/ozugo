@@ -252,6 +252,10 @@ section.landing .profile-area {
     align-items: center;
 }
 
+.inner-circle{
+    margin-top: 3rem;
+}
+
 section.landing .profile-area .outer-circle {
     width: 26rem;
     height: 26rem;
@@ -423,7 +427,7 @@ section.contact form .btn:hover {
     background: var(--color-danger);
     color: var(--color-white);
     cursor: pointer;
-    text-decoration: underline;
+    /* text-decoration: underline; */
 }
 
 fieldset{
